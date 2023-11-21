@@ -1376,7 +1376,7 @@ button.style3:active,
 }
 
 #banner .more:hover {
-  background-color: rgb(6, 32, 1);
+  background-color: rgb(0, 0, 0);
   border: 1px solid #15d568;
   color: #15d568;
 }
