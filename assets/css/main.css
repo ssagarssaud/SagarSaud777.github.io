@@ -653,7 +653,7 @@ input[type="radio"] + label:before {
   opacity: 1;
 }
 
-/* Box Background colour is this which is very essential once it gets lost than never found */
+/* Box Background colour */
 
 .box {
   border-radius: 4px;
@@ -820,7 +820,7 @@ ul.icons li {
   padding-right: 1em;
 }
 
-/* BACKGROUND COLOUR - FACEBOOK, INSTAGRAM, YOUTUBE KO COLOUR CHANGE GARNA KO LAGI USE HUNCHHA YO */
+/* BACKGROUND COLOUR - FACEBOOK, INSTAGRAM, YOUTUBE */
 
 ul.icons li a {
   display: block;
@@ -839,7 +839,7 @@ ul.icons li a:before {
   line-height: 1.5em;
 }
 
-/* BEFORE AND AFTER ----FACEBOOK, INSTAGRAM, YOUTUBE KO COLOUR CHANGE GARNA KO LAGI USE HUNCHHA YO */
+/* BEFORE AND AFTER ----FACEBOOK, INSTAGRAM, YOUTUBE*/
 
 ul.icons li a:hover {
   background-color: #000000;
@@ -1066,7 +1066,7 @@ button,
   white-space: nowrap;
 }
 
-/* Watch Button ma hover garda kasto khalko colour background ma aauch tyo ho yo */
+/* Watch Button ma hover  */
 
 input[type="submit"]:hover,
 input[type="reset"]:hover,
@@ -1143,7 +1143,7 @@ button:disabled,
   opacity: 0.25;
 }
 
-/* Button ko colour Active and Hover ma Kasto Hunchha tyo ho you - This Was the most problematic are I spent a lot time figuring it */
+/* Button */
 
 input[type="submit"].style2,
 input[type="reset"].style2,
@@ -1203,7 +1203,6 @@ button.style3:active,
   }
 }
 
-/* Poptrox VIDEO PLAY HUDA BOX SADOW kasto aauch tyo part yeta chha so dont forget broo hai ta*/
 
 .poptrox-popup {
   -moz-box-sizing: content-box;
@@ -1305,7 +1304,7 @@ button.style3:active,
   position: relative;
   z-index: 2;
 }
-/* Infinity H20 Ko Colour ho yo haiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii*/
+/* Infinity H20 */
 #banner h1 {
   color: #ffffff;
   font-size: 5em;
@@ -1325,7 +1324,7 @@ button.style3:active,
     font-size: 3em;
   }
 }
-/* Rapper producer singer and the producer wal ko colour ho hai taaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa*/
+
 #banner p {
   color: #e3d50e;
   font-size: 1.5em;
@@ -1343,7 +1342,7 @@ button.style3:active,
     font-size: 1.25em;
   }
 }
-/* FIRST KO Spotify Wala link ko hover garyepachhi ra aghadi ko wal colour yeslye determine garchha hai tea*/
+
 
 #banner a {
   color: #15d568;
@@ -1360,7 +1359,7 @@ button.style3:active,
   
 }
 
-/* FIRST KO CIRCLE KO HOVER AND CIRCLE BEFORE AND AFTER KO RIACHHA YO*/
+
 
 #banner .more {
   background-image: url("images/arrow.svg");
