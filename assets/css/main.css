@@ -459,7 +459,6 @@ form {
   margin: 0 0 2em 0;
 }
 
-
 label {
   color: #fff;
   display: block;
@@ -1203,7 +1202,6 @@ button.style3:active,
   }
 }
 
-
 .poptrox-popup {
   -moz-box-sizing: content-box;
   -webkit-box-sizing: content-box;
@@ -1343,7 +1341,6 @@ button.style3:active,
   }
 }
 
-
 #banner a {
   color: #15d568;
   text-decoration: none;
@@ -1354,12 +1351,9 @@ button.style3:active,
   color: rgb(255, 251, 0);
   border: none;
 }
-.subscribe-btn{
-  background-color:red;
-  
+.subscribe-btn {
+  background-color: red;
 }
-
-
 
 #banner .more {
   background-image: url("images/arrow.svg");
@@ -1526,4 +1520,3 @@ body.is-loading #banner:before {
     padding: 3em 0 1em 0;
   }
 }
-
