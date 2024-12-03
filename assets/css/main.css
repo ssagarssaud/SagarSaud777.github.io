@@ -252,14 +252,11 @@ a {
   text-decoration: none;
   border-bottom: 1px dotted;
   outline: 0;
+  text-decoration: none;
 }
 
 a:hover {
-  color: rgb(51, 51, 102);
-  background-color: rgba(255, 255, 255, 0);
-  border-color: #15d568 color, rgb(51, 51, 102);
-  background-color: rgba(255, 255, 255, 0);
-  border-color: #15d568;
+  color: green;
 }
 
 strong,
