@@ -250,7 +250,6 @@ a {
   transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
   color: rgba(255, 255, 255, 0.75);
   text-decoration: none;
-  border-bottom: 1px dotted;
   outline: 0;
   text-decoration: none;
 }
@@ -1321,7 +1320,7 @@ button.style3:active,
 }
 
 #banner p {
-  color: #e3d50e;
+  
   font-size: 1.5em;
   font-weight: 300;
 }
@@ -1345,7 +1344,7 @@ button.style3:active,
 }
 
 #banner a:hover {
-  color: rgb(255, 251, 0);
+  
   border: none;
 }
 .subscribe-btn {
@@ -1377,6 +1376,10 @@ button.style3:active,
   color: #15d568;
 }
 
+subscribe-btn a{
+  text-decoration: none;
+  
+}
 #banner video {
   -moz-transform: translateX(50%) translateY(50%);
   -webkit-transform: translateX(50%) translateY(50%);
